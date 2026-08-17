@@ -1,0 +1,5 @@
+opencv-python
+deepface
+sqlite3
+numpy
+pandas
